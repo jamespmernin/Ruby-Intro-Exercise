@@ -1,22 +1,20 @@
-# Ruby Practice
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SOFTWARE ENGINEERING IMMERSIVE
 
-[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly)
-
-# Ruby Basics Practice
+## Ruby Basics Practice
 
 For this assignment, you'll complete reps and practice problem solving with Ruby to get familiar with the language.
 
-#### Learning Objectives
+### Learning Objectives
 
 - Problem solving in Ruby
 
-#### Prerequisites
+### Prerequisites
 
 - Ruby
 
 ---
 
-# Getting Started
+## Get Started
 
 1. Add your answers to the: `student_solution.rb`
 
@@ -31,13 +29,13 @@ The Ruby documentation is excellent, take advantage of it! Load the following pa
 - [Enumerators](http://ruby-doc.org/core-2.5.3/Enumerator.html) + [Enumberables](https://ruby-doc.org/core-2.5.3/Enumerable.html)
 - [Hashes](http://ruby-doc.org/core-2.5.3/Hash.html)
 
-# Deliverables
+## Deliverables
 
 Complete all problems below in the `student_solution.rb` file you created.
 
-## Get Started With a Few Reps
+### Get Started With a Few Reps
 
-### Hello World
+#### Hello World
 
 1. Print "Hello World" to the console
 
@@ -60,7 +58,7 @@ Expected output:
 &#x1F534; **Commit your work**
 <hr>
 
-### Nums Array and Enumerables
+#### Nums Array and Enumerables
 
 With the following array:
 
@@ -101,7 +99,7 @@ With the following array:
 &#x1F534; **Commit your work**
 <hr>
 
-### Color Array
+#### Color Array
 
 With the following array:
 
@@ -116,7 +114,7 @@ With the following array:
 &#x1F534; **Commit your work**
 <hr>
 
-### Methods
+#### Methods
 
 Write a method named `find_area` that finds the area of a rectangle when given values for width and height
   - REMEMBER: In Ruby, the keyword `return` is implied and can be omitted!
@@ -140,7 +138,7 @@ Write a method named `multiply_each_by_five` that will loop over the given `nums
 &#x1F534; **Commit your work**
 <hr>
 
-### Methods With a Hash
+#### Methods With a Hash
 
 Use the following given hashes to solve the problems below
 
