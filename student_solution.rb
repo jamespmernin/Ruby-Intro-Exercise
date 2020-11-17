@@ -1,10 +1,13 @@
 # Hello World
+puts "Hello World"
 
 #1
-
+adjective = "Big Bad"
+puts "Hello #{adjective} World"
 
 #2
-
+phrase = "Hello World"
+puts phrase.upcase
 
 #3
 
