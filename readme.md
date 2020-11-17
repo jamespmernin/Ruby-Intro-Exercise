@@ -107,9 +107,9 @@ With the following array:
 
 1. Print out a random color.
 
-1. Print out the `colors` array in reverse order.
+2. Print out the `colors` array in reverse order.
 
-1. Print out all of the colors in the array with all capital letters.
+3. Print out all of the colors in the array with all capital letters.
 
 &#x1F534; **Commit your work**
 <hr>

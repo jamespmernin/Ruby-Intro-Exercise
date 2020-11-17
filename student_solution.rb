@@ -118,10 +118,11 @@ table = {
 }
 
 def print_price hash
-  
+  hash.fetch(:price)
 end
 
+puts print_price book
 
 def print_item_sums(hash1, hash2)
-  
+  hash1.fetch(:price) + hash2.fetch(:price)
 end
