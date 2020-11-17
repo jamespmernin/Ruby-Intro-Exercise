@@ -67,15 +67,16 @@ puts nums.reject { |i| i % 3 == 0 }
 puts nums.select { |i| i % 5 == 0 }
 
 # Color Array
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 #1
-
+puts colors.sample
 
 #2
-
+puts colors.reverse
 
 #3
-
+puts colors.map(&:upcase)
 
 # Methods
 
